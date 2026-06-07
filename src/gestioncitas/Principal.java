@@ -6,7 +6,12 @@ package gestioncitas;
 
 /**
  *
- * @author aleja
+ * Integrantes:
+ * 
+ * Alejandro Chavarria Ramirez
+ * Daniela Jazmin Gomez Peña
+ * Marisol Del Carmen Masis Monge
+ * 
  */
 public class Principal {
 
