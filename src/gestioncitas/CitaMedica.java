@@ -74,6 +74,7 @@ public abstract class CitaMedica {
     }
     
     public abstract boolean validarRequisitos();
+    
     public abstract String procesarCita();
 
     @Override
