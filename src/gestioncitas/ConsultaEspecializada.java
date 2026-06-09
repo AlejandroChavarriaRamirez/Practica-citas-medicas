@@ -8,6 +8,7 @@ package gestioncitas;
  *
  * @author Dani
  */
+
 public class ConsultaEspecializada extends CitaMedica implements Notificable {
     
     
