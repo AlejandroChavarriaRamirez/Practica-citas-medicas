@@ -20,7 +20,7 @@ public class ConsultaGeneral extends CitaMedica implements Notificable {
     public ConsultaGeneral(String nombrePaciente, String cedula, String fecha, 
             String hora, String motivoConsulta, String codigoMedicoGeneral){
         super(nombrePaciente, cedula, fecha, hora, motivoConsulta);
-        
+        this.codigoMedicoGeneral = codigoMedicoGeneral;
     }
     
     public String getCodigoMedicoGeneral() { 
